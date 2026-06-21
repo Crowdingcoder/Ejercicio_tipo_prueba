@@ -5,7 +5,7 @@ import time
 productos =[]
 
 def limpiar():
-    os.system("clear")
+    os.system("cls")
 
 def pausar():
     time.sleep(2)
